@@ -1,5 +1,10 @@
 # ViSimulator for Notepad++.
+## How to Install
+The plugin manager of the notepad++ is not functioning properly currently, hence you need to
+download and extra the ViSimulator.dll and place into the plugin folder of your notepad++.
+Both 32Bit and 64Bit are supported.
 
+## Supported Commands
 It is a plugin for Notepad++ which provides a Vi-Style input scheme
 like moving around with `hjkl` and editing text on Notepad++.
 
