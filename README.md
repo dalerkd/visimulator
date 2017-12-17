@@ -1,7 +1,7 @@
 # ViSimulator for Notepad++.
 ## How to Install
 The plugin manager of the notepad++ is not functioning properly currently, hence you need to
-download and extra the ViSimulator.dll and place into the plugin folder of your notepad++.
+download and extract the ViSimulator.dll and place into the plugin folder of your notepad++.
 Both 32Bit and 64Bit are supported.
 
 ## Supported Commands
