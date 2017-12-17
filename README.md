@@ -27,7 +27,7 @@ Below are list of the supported commands:
 * :number	-	move to the cursor to line <number>
 * :w			-	save
 * :q			-	quit
-
+* :help   - show all the supported commands
 
 Any feedback or feature request, please use below URL:
 
