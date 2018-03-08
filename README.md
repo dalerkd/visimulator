@@ -29,6 +29,10 @@ Below are list of the supported commands:
 * :q			-	quit
 * :help   - show all the supported commands
 
+* A       - insert at the end of the line   (requested by @Ncerzzk )
+* b       - back to preview word  (requested by @keanegit )
+* G       - go to last line    ( requested by @lorre851 )
+
 Any feedback or feature request, please use below URL:
 
 https://github.com/bycn82/visimulator/issues
