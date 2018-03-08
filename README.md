@@ -29,9 +29,13 @@ Below are list of the supported commands:
 * :q			-	quit
 * :help   - show all the supported commands
 
-* A       - insert at the end of the line   (requested by @Ncerzzk )
-* b       - back to preview word  (requested by @keanegit )
-* G       - go to last line    ( requested by @lorre851 )
+
+2018-03-08 Few keys added as per requested
+
+
+* A       - insert at the end of the line   (requested by [@Ncerzzk ](https://github.com/Ncerzzk))
+* b       - back to preview word  (requested by [@keanegit](https://github.com/keanegit) )
+* G       - go to last line    ( requested by [@lorre851](https://github.com/lorre851) )
 
 Any feedback or feature request, please use below URL:
 
